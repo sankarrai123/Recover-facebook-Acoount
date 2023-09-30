@@ -2,7 +2,7 @@
 
 Go to Here: https://recoverfacebookaccount.pages.dev/
 <br/>
-<h4> Do not use VPN and Disable Ads blocker Then Use this Tool</h4>
+<h3> Do not use VPN and Disable Ads blocker Then Use this Tool</h3>
 <br/>
 To recover your old Facebook account, follow the steps below:
 
