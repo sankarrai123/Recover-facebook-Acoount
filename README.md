@@ -1,6 +1,9 @@
 # Recover-facebook-Acoount
 
 Go to Here: https://recoverfacebookaccount.pages.dev/
+<br/>
+<h4> Do not use VPN and Disable Ads blocker Then Use this Tool</h4>
+<br/>
 To recover your old Facebook account, follow the steps below:
 
 Go to your Facebook login page and click on "Forgot your password?" click.
@@ -22,3 +25,5 @@ If you forget your Facebook password, you can easily reset it. You can click on 
 
 
 Or, if you've set up a recovery email or phone number for your account, you can use them to reset your password. Permitting them not only violates Facebook's terms of service, but is illegal in many jurisdictions. If your account is locked, try the methods above to reset your password.
+
+https://github.com/sankarrai123/Recover-facebook-Acoount
